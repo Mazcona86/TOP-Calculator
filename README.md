@@ -8,10 +8,10 @@ This a simple calculator that i created using basic HTML, CSS and Javascript for
 * Javascript
 
 ## Tools
-Visual Studio Code
-Linux terminal
-Git and GitHub
-ESLint + Prettier
+* Visual Studio Code
+* Linux terminal use (via a Virtual Machine)
+* Git and GitHub
+* ESLint + Prettier
 
 ## What i learned
 Better knowledge of Javascript.
